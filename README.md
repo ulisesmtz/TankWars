@@ -1,0 +1,2 @@
+# TankWars
+TankWars reuses the game Wingman. Wingman is served as a base for TankWars with minor changes and additions. The main file to run the application is titled TankWorld and is found in the tank package. TankWars is a player vs player game where the objective is to destroy the other player's tank first. Player 1 moves tank using W, A, S, D keys and shoots with space bar. Player 2 moves with arrow keys and shoots with enter key.
